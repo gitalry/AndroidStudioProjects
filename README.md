@@ -1,2 +1,0 @@
-# AndroidStudioProjects
-AndroidStudioProjects projects repository
